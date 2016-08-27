@@ -19,5 +19,8 @@ navigation:
   - name: About
     url: 'https://hbgpal.wordpress.com/about/'
     type: external
+  - name: Become a Member
+    id: 737eb1d4-2562-4941-856d-ab25870591b9
+    type: content
 title: Programs
 description: We are Harrisburg PAL on "thegrid"
