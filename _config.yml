@@ -11,6 +11,9 @@ color:
     - '#232150'
     - '#92A959'
 layout_spectrum: 0.5699851741082966
+author:
+  name: Steven Guinter
+  email: saguinter@gmail.com
 name: Harrisburg Police Athletic League
 navigation:
   - name: About
