@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-27T04:57:52.505Z'
+datePublished: '2016-08-27T04:58:16.368Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-27T04:57:00.817Z'
+dateModified: '2016-08-27T04:58:15.803Z'
 title: Become a Member
 publisher: {}
 description: Are you a New PAL Youth Participant? (New Memberships only)
-starred: false
 sourcePath: _posts/2016-08-27-become-a-member.md
-_type: Blurb
+hasPage: true
+starred: false
+url: become-a-member/index.html
+_type: Article
 
 ---
 # Become a Member
