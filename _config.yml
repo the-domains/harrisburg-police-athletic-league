@@ -12,3 +12,7 @@ color:
     - '#232150'
     - '#92A959'
 name: Harrisburg Police Athletic League
+navigation:
+  - name: About
+    url: 'https://hbgpal.wordpress.com/about/'
+    type: external
