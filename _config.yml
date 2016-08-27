@@ -1,3 +1,4 @@
+layout_spectrum: 0.5699851741082966
 typography_spectrum: 0.8459432888776064
 color:
   brandStrength: 0.31088934652507305
@@ -5,22 +6,9 @@ color:
   saturation: 0.27084163296967745
   rhythmicContrast: 0.15584835433401167
   brandColors:
-    - '#F8F8F8'
-    - '#467E75'
-    - '#C3D7D8'
-    - '#232150'
-    - '#92A959'
-layout_spectrum: 0.5699851741082966
-author:
-  name: Steven Guinter
-  email: saguinter@gmail.com
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Harrisburg Police Athletic League
-navigation:
-  - name: About
-    url: 'https://hbgpal.wordpress.com/about/'
-    type: external
-  - name: Become a Member
-    id: 737eb1d4-2562-4941-856d-ab25870591b9
-    type: content
-title: Programs
-description: We are Harrisburg PAL on "thegrid"
