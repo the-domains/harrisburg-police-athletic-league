@@ -37,5 +37,8 @@ navigation:
   - name: Forms
     url: 'https://hbgpal.wordpress.com/online-forms/'
     type: external
+  - name: Follow
+    url: 'https://hbgpal.wordpress.com/about/follow-pal/'
+    type: external
 title: Programs
 description: We are Harrisburg PAL on "thegrid"
