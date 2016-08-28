@@ -1,16 +1,16 @@
-typography_spectrum: 0.8459432888776064
+layout_spectrum: 0.5828056898899376
+typography_spectrum: 0.8230243166908622
 color:
-  brandStrength: 0.31088934652507305
-  lightness: 0.4454431082122028
-  saturation: 0.27084163296967745
-  rhythmicContrast: 0.15584835433401167
+  brandStrength: 0.09023964102379978
+  lightness: 0.9871418997645378
+  saturation: 0.10205604787915945
+  rhythmicContrast: 0.24716458399780095
   brandColors:
-    - '#F8F8F8'
-    - '#467E75'
-    - '#C3D7D8'
-    - '#232150'
-    - '#92A959'
-layout_spectrum: 0.5699851741082966
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
 author:
   name: Steven Guinter
   email: saguinter@gmail.com
