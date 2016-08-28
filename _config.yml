@@ -25,5 +25,8 @@ navigation:
   - name: Programs
     url: 'https://hbgpal.wordpress.com/programs/'
     type: external
+  - name: Support
+    url: 'https://hbgpal.wordpress.com/support/'
+    type: external
 title: Programs
 description: We are Harrisburg PAL on "thegrid"
