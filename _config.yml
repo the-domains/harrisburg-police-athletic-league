@@ -40,5 +40,8 @@ navigation:
   - name: Follow
     url: 'https://hbgpal.wordpress.com/about/follow-pal/'
     type: external
+  - name: National PAL
+    url: 'http://www.nationalpal.org/default.aspx'
+    type: external
 title: Programs
 description: We are Harrisburg PAL on "thegrid"
