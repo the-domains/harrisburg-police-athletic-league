@@ -31,5 +31,8 @@ navigation:
   - name: Contact Us
     url: 'https://hbgpal.wordpress.com/contact-us/'
     type: external
+  - name: Community
+    url: 'https://hbgpal.wordpress.com/hbgcommunity/'
+    type: external
 title: Programs
 description: We are Harrisburg PAL on "thegrid"
